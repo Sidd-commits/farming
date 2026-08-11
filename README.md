@@ -42,5 +42,4 @@ You can deploy this site on GitHub Pages:
 - Icons by [Icons8](https://icons8.com/)
 - Fonts by [Google Fonts](https://fonts.google.com/)
 
----
-Feel free to fork, customize, and share!
+
